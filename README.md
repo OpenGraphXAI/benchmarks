@@ -1,5 +1,7 @@
 # OpenGraphXAI benchmarks
 
+Here you can find the 15 graph XAI benchmarks of the OGX collection, and the scripts to generate many more!
+
 To run the code in this repository, an Python environment with Pytorch Geometric is required. The instructions to set it up are available [here](https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html).
 
 ## Loading the OGX benchmarks
@@ -51,4 +53,6 @@ python make-benchmark-dataset.py --name alfa --dataset NCI1 --wl 3 --label0 03:d
 
 In `ogx_benchmarks.csv`  we provide the specifics to generate the 15 benchmarks of the OGX collection, while specifications to generate 2000+ more XAI tasks are provided in `ogx_extended_collection.csv`.
 
+---
 
+Computational Intelligence and Machine Learning Group ([CIML](https://ciml.di.unipi.it/)), University of Pisa
