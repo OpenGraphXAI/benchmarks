@@ -4,7 +4,8 @@ Here you can find the 15 graph XAI benchmarks of the OGX collection, and the scr
 
 To run the code in this repository, a Python environment with Pytorch Geometric is required. The instructions to set it up are available [here](https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html).
 
-Please cite our paper if you use our datasets or our code:
+Please cite [our paper](https://doi.org/10.1007/s10618-026-01212-z) if you use our datasets or our code:
+> M. Fontanesi, A. Micheli, M. Podda, D. Tortorella (2026). "A method for the systematic generation of graph XAI benchmarks via Weisfeiler–Leman coloring." *Data Mining and Knowledge Discovery*, vol. 40(4), article no. 42. doi:10.1007/s10618-026-01212-z
 ```
 @article{OGXBenchmarks,
   author = {Fontanesi, Michele and Micheli, Alessio and Podda, Marco and Tortorella, Domenico},
