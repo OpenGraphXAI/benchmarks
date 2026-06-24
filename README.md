@@ -35,6 +35,10 @@ The `mask` attribute in graphs provides the ground truth explanation mask.
 
 ## Generating XAI benchmarks
 
+<p align="center">
+  <img width="100%" src="https://dtortorella.it/images/2026-05-09-systematic-generation-graph-xai-benchmarks.png" />
+</p>
+
 In the directory `src`, we provide the scripts to mine candidate benchmarks and to generate benchmarks with chosen Weisfeiler-Leman labels as ground truth.
 
 To mine potential benchmarks from a dataset from the [TU collection](www.graphlearning.io), run
